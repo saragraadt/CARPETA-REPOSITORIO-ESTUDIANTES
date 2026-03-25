@@ -65,5 +65,21 @@ Checkbox:
 * EMOJIS: Corazon  = 💟
 * Usa @usuario para notificar a alguien en GitHub.
 
+# CLASE: Historia de la computación
 
+### ARQUITECTURA DEL PENSAMIENTO:
+
+**maquina diferencial:1822**
+* Babbage fue su creador en 1822
+* Se diseñó y creó para sistematizar el cálculo y la tabulación de funciones polinómicas.
+* Era un dispositivo mecánico de gran escala, compuesto íntegramente por engranajes que servía para resolver ecuaciones e imprimir los resultados en forma de tablas matemáticas.
+
+**Maquina diferencial II:1991**
+* La construyó el Museo de Ciencias de Londres en 1991.
+* Suieron exactamente los plnos de Babbage.
+* Funcionó perfectamente, demostrando que su diseño era correcto y que la máquina podría haberse construido en la época victoriana si la gestión hubiera sido diferente.
+
+**Maquina Analítica:1834-1837**
+* fue diseñada para realizar cualquier tipo de cálculo establecido anteriormente y para tener una capacidad de análisis aún mayor que la Máquina Diferencial original.
+* Fue considera la primeramáquina de cálculo completamente automática.
 
