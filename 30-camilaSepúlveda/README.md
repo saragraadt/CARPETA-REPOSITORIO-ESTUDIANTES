@@ -12,9 +12,12 @@ Mrkdown permite usar etiquetas de HTML basico, para obligar un salto de lineas s
 
 TITULOS 
 
-titulo peso 1: # espacio Titulo nivel 1 = # titulo nivel 
-titulo: 2 ## espacio  titulo nivel 2 
-titulo 3: ### espacio espacio Titulo nivel 3
+titulo peso 1: # espacio Titulo nivel 1
+titulo 2: ## espacio titulo nivel 2 
+titulo 3: ### espacio Titulo nivel 3
+titulo 4: #### espacio titulo nivel 4
+titulo 5: ##### espacio titulo nivel 5
+titulo 6: ###### espacio titulo nivel 6
 
 # Título Nivel 1
 ## Título Nivel 2
@@ -26,12 +29,13 @@ titulo 3: ### espacio espacio Titulo nivel 3
 **FORMATO DE TEXTO**
 
 Negrita: **texto** o _texto_
-cursiva: *texto* o _texti_
+cursiva: *texto* o _texto_
 negrita y cursiva: ***texto***
 tachado:~~texto~~ 
-escapado de \#texto
+escapado de simbolos: \#texto
 
-**listas** : para que la sub categoria funcione debe ponerse 2 o 4 espacios, antes del aterisco o numero 
+# listas nivel 1 
+para que la sub categoria funcione debe ponerse 2 o 4 espacios, antes del aterisco o numero 
 
 Viñeta:
 * Elemento A espacio espacio enter (1. elemento 1 espacio espacio) 
