@@ -28,7 +28,7 @@ Artistas que comenzaron a trabajar con algoritmos: Malfred Mohn, George Ness, En
 - Distribuir             
 - Mejora
 
-**OPEN SOURCE*** : Código Abierto-
+**OPEN SOURCE*** : Código Abierto
 - Práctico y Técnico.
 - La calidad y la colab son lo más importante.
 
