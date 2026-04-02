@@ -68,28 +68,32 @@ Funciona con un sistema de coordenadas (x,y), como un plano cartesiano solo que 
 **triangle(x1,y1,x2,y2,x3,y3)** x, y definen cada coordenada de cada esquina
 **quad(x1,y1,x2,y2,x3,y3,x4,y4)** Dibuja un cuadrilátero, sirve para hacer formas irregulares de cuatro lados.  
 #### TAMAÑO DEL BORDE:  
-**strokeWeight();** Establece el tamaño del borde o el ancho de un punto o línea
-Sintaxis: strakeWeight(weight);
+**strokeWeight();** Establece el tamaño del borde o el ancho de un punto o línea<br>
+Sintaxis: strakeWeight(weight);<br>
 Ejemplo: strokeWeight(25);  
 **noStroke();** Se usa para que la fig no tenga borde  
 #### COLOR DEL BORDE:
-**stroke();** Establece el color que se utiliza para dibujar puntos, líneas y contornos de fig.
-Sintaxis: stroke(v1,v2,v3, [alpha])
+**stroke();** Establece el color que se utiliza para dibujar puntos, líneas y contornos de fig.<br>
+Sintaxis: stroke(v1,v2,v3, [alpha])<br>
 Ejemplo: stroke(245,0,0)  
 #### FORMA DEL BORDE/LÍNEA:  
-**strokeCap();** Define la forma de la línea o borde de nuestras fig.
+**strokeCap();** Define la forma de la línea o borde de nuestras fig.<br>
 Las constantes son: **ROUND**, **SQUARE**, **PROYECT**<br>
-Sintaxis: strokeCap(cap);
+Sintaxis: strokeCap(cap);<br>
 Ejemplo: strokeCap(SQUARE);  
+#### RELLENO DE COLOR:  
+**fill();** Establece el COLOR de relleno para las figuras (Se pone arriba de las figuras que quieres colorear).<br>
+Sintaxis: fill(v1,v2,v3,[alpha]);<br>
+Ejemplo: fill(210,40,160);  
+#### FIGURAS GEOMÉTRICAS 2D AVANZADAS:  
+**arc();** Sirve para hacer arcos o medios círculos, x,y es el centro del circulo, w y h es la anchura y altura y star y stop es donde comienza
+y termina *(guiandose por el sentido del reloj y los grados)*.<br>
+Sintaxis: arc(x,y,w,h,start, stop)<br>
+Ejemplo: arc(250,250,100,100,270,90);<br>
+**SE SUGIERE ACTIVAR EL MODO ÁNGULO EN SETUP**
+**angleMode(DEGREES);**  
+##### GRADOS:  
+![GRADOS](https://thumbs.dreamstime.com/b/c%C3%ADrculo-con-los-grados-marcados-74654200.jpg)
 
-
-
-angleMode(DEGREES);
-arc(
-
-strokeCap: sintaxis: strokeCap(SQUARE);
-ROUND, SQUARE, PROJECT
-
-Fill(valores en RGB)
 
 
