@@ -69,15 +69,15 @@ negrita y cursiva tres asteriscos texto y tres asteriscos ***texto***,
 tachado dos ondas texto dos ondas ~~texto~~ para hacer las ondas es option y asterisco,   
 escapado de simbolos slash alreves # texto  
 viñetas con asteriscos  
-*elemento a
+* elemento a
 
-*elemento b
+* elemento b
 
-*elementoc
+* elementoc
 
 para hacer hacia adentro dos espacios y asteriscos
 
-  *subelemento c1
+  * subelemento c1
 
   con numeros es el numero y un punto
   1. elemento1  
